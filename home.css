@@ -1,0 +1,10 @@
+ul{
+    height: 100px;
+    width:100%;
+    list-style-type: none; //取消无序列表的固定样式
+}
+ul li{
+    float:left;
+    margin: 20px;  //设置三个元素的外间距
+}
+

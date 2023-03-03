@@ -1,0 +1,14 @@
+
+body{
+    background-color: #19e745;
+}
+input[type='text']{
+    text-align: center;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+.div1{
+    text-align: center;
+}

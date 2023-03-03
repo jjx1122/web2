@@ -1,0 +1,12 @@
+.mutable{
+    text-align: center;
+}
+input[type=text] {
+    /*width: 300px;*/
+    /*height: 30px;*/
+    width: 300px;
+    height: 30px;
+    padding-left: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
